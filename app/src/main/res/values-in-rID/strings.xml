@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecipeCatalogue App</string>
+
+    <string name="txt_vegetarian">Vegetarian</string>
+    <string name="txt_seafood">Seafood</string>
+    <string name="txt_breakfast">Breakfast</string>
+    <string name="txt_dessert">Dessert</string>
+    <string name="txt_cooked">cooked</string>
+    <string name="content_for_detail">Content for detail</string>
+    <string name="txt_calories">Calories</string>
+    <string name="txt_carbo">Carbo</string>
+    <string name="txt_protein">Protein</string>
+    <string name="txt_recipe">Recipe</string>
+    <string name="txt_ingredients">Ingredients</string>
+    <string name="txt_directions">Directions</string>
+</resources>
